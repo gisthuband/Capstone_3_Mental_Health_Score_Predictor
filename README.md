@@ -6,7 +6,7 @@ By using a mental health score predictor, mental health predictions could be mad
 
 Contents of Project:
 
-Data:
+Data: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/data](url)
 
 Data_Wrangling:
 
