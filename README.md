@@ -14,7 +14,7 @@ Exploratory_Data_Analysis: [https://github.com/gisthuband/Capstone_3_Mental_Heal
 
 Preprocessing: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/preprocessing](url)
 
-Modeling:
+Modeling: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/modeling](url)
 
 Final_Presentation_and_Report:
 
