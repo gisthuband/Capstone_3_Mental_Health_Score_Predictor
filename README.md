@@ -12,7 +12,7 @@ Data_Wrangling: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Pr
 
 Exploratory_Data_Analysis: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/exploratory_data_analysis](url)
 
-Preprocessing:
+Preprocessing: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/preprocessing](url)
 
 Modeling:
 
