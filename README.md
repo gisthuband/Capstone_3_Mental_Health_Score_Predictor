@@ -8,7 +8,7 @@ Contents of Project:
 
 Data: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/data](url)
 
-Data_Wrangling:
+Data_Wrangling: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/data_wrangle](url)
 
 Exploratory_Data_Analysis:
 
