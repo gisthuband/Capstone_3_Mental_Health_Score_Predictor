@@ -16,5 +16,5 @@ Preprocessing: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Pre
 
 Modeling: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/modeling](url)
 
-Final_Presentation_and_Report:
+Final_Report_and_Presentation: [https://github.com/gisthuband/Capstone_3_Mental_Health_Score_Predictor/tree/main/final_documentation_and_presentation](url)
 
